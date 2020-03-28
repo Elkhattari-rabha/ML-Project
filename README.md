@@ -2,6 +2,9 @@
 Sujet: Système de détection en continu et avec précision des épisodes de FA dans PPG collectés dans un cadre de vie libre ambulatoire
 
 
+Difficulté et complexité: manipulation de la base de données.
+
+
 Introduction pour comprendre le sujet:
 
 La fibrillation auriculaire (FA) est l'arythmie cardiaque la plus courante et un facteur de risque d'accident vasculaire cérébral, affectant au moins 2,7 millions d'adultes aux États-Unis. Le diagnostic est habituellement effectuée par observation électrocardiogrammes (ECG) généralement mesurée avec un enregistreur d'événements cardiaques, un moniteur Holter ou un patch de poitrine. Cependant, ces appareils ECG ont tendance à être utilisés de manière réactive. De nombreuses occurrences de FA subclinique ou silencieuse ne sont donc pas détectées.
