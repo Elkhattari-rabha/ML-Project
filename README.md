@@ -14,7 +14,9 @@ La photopléthysmographie (PPG) est une technologie émergente qui permet la mes
 
 
 
-## NB:On a constaté que l'algorithme DNN est le plus performant qui donne des meilleurs résultats et qui est basé sur les réseaux de neurons, du cout on a donné que le code de l'algorithme DNN, au contraire de l'algorithme KNN qui est basé sur une methode de classification supérvisée et qui donne des résultats moins précis, et on a fait une comparaison avec les 2 algorithmes (dans le rapport et le guide) à l'aide des informations trouvées sur internet pour bien saisir la differénce entre ces 2 dérniers.
+
+## NB: On a constaté que l'algorithme DNN est le plus performant qui donne des meilleurs résultats et qui est basé sur les réseaux de neurons, du cout on a donné que le code de l'algorithme DNN, au contraire de l'algorithme KNN qui est basé sur une methode de classification supérvisée et qui donne des résultats moins précis, et on a fait une comparaison avec les 2 algorithmes (dans le rapport et le guide) en se basant sur les métriques d’évaluation à savoir : accuracy et la fct de perte ( loss), Recall.... pour bien saisir la differénce entre ces 2 dérniers.
+
 
 
 Comment utilisr ce projet:
